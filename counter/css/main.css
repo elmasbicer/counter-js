@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    width:  100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #3269d9, #a037ba);
+    padding: 10px;
+}
+
+
+.fullContainer {
+    justify-content: center;
+    vertical-align: center;
+    text-align: center;
+    border: 1px gray solid;
+    margin: 40px;
+    padding: 40px;
+    background-color: white;
+}
